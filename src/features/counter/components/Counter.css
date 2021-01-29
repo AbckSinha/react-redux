@@ -1,0 +1,17 @@
+.box {
+  display: inline-block;
+  margin: 20px;
+  height: 45px;
+  width: 150px;
+  background-color: orange;
+  padding: 13px;
+}
+
+.counterContainer {
+  margin-left: 40%;
+  border: 1px solid black;
+  background-color: Yellow;
+  height: 45px;
+  width: 200px;
+  padding: 13px;
+}
